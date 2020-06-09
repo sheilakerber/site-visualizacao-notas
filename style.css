@@ -33,17 +33,6 @@ h2 {
     color: rgb(28, 44, 114);
 }
 
-
-/*#imgClicar {
-    display: flex;
-    float: right;
-    margin-right: 240px;
-    margin-top: 0px;
-    margin-bottom: 40px;
-    width: 7%;
-}
-*/
-
 button {
     display: flexbox;
     align-items: center;
